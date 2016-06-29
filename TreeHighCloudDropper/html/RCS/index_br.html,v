@@ -1,0 +1,83 @@
+head	1.1;
+access;
+symbols;
+locks
+	joao.duarte:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2013.04.06.18.59.03;	author joao.duarte;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<!--
+Universidade Federal do Rio de Janeiro
+Escola Politecnica
+Departamento de Eletronica e de Computacao
+ 
+Prof. Marcelo Luiz Drumond Lanza
+EEL270 - Computacao II - Turma 2012/2
+Autor Joao Vitor Ferreira Duarte 
+    
+$Author$
+$Date$
+$Log$
+-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	
+
+<head>
+	<title>Tree High CloudDropper</title>
+	<link rel="stylesheet" href="css/styles.css">
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name="generator" content="Geany 1.22" />
+	<link rel="icon" 
+      type="image/favicon.ico" 
+      href="http://example.com/myicon.png">
+</head>
+
+<body>
+	<ul id='wrap'>
+		<ul id='ThcTitle'>
+			<h1><font color=red>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;T</font><font color=yellow>H</font><font color=green>C</font></h1>
+			<h2>Tree High CloudDropper&nbsp;&nbsp;</h2>
+		</ul>
+		<ul class ="table">	
+			<form action="cgis/thcLogin.cgi" method="post">
+				Nome de usuario :<br><INPUT TYPE="text" NAME="thcUsername" SIZE="25" MAXLENGTH="100"><br>
+				Senha :<br><INPUT TYPE="password" NAME="thcPassword" SIZE="25" MAXLENGTH="100"><br>
+				<input type="hidden" name="thcLanguage" value="br">
+				<input type = "submit" value = "enter">
+			</form>
+		</ul>
+
+	<div id='footer'>
+
+		<center>
+			<a href="cgis/thcCgiShowRegisterForm.cgi?thcLanguage=br">Cadastre-se Aqui</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+			<a href="mailto:joaov.ferreira@@poli.ufrj.br">Contato</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+			<a href="index_en.html">English</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="cgis/thcCgiShowResetPasswordForm.cgi?thcLanguage=br">Esqueci a minha senha</a>
+		</center>
+	</div>
+	</ul>
+</body>
+
+</html>
+
+<!--$RCSfile$-->
+@
