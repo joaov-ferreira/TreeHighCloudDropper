@@ -6,15 +6,6 @@
  * Prof. Marcelo Luiz Drumond Lanza
  * EEL310 - Computacao II - Turma 2012/2
  * Autor Joao Vitor Ferreira Duarte 
- *     
- * $Author: joao.duarte $
- * $Date: 2013/04/06 18:55:09 $
- * $Log: thcChangeUsernameCgi.c,v $
- * Revision 1.1  2013/04/06 18:55:09  joao.duarte
- * Initial revision
- *
- *
- *
  */
 
 #include <stdio.h>
@@ -167,5 +158,3 @@ int main (int argc, char **argv)
 	mlCgiFreeResources();
 	return THC_OK;
 }
-
-/*$RCSfile: thcChangeUsernameCgi.c,v $*/

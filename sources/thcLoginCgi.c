@@ -3,18 +3,6 @@
  * Escola Politecnica
  * Departamento de Eletronica e de Computacao
  *
- * Prof. Marcelo Luiz Drumond Lanza
- * EEL310 - Computacao II - Turma 3112/2
- *
- * $Author: joao.duarte $
- * $Date: 2013/04/06 18:55:09 $
- * $Log: thcLoginCgi.c,v $
- * Revision 1.2  2013/04/06 18:55:09  joao.duarte
- * Final Revision for first part
- *
- * Revision 1.1  2013/03/21 23:14:32  joao.duarte
- * Initial revision
- *
  *
  */
 
@@ -188,5 +176,3 @@ int main (int argc, char **argv)
 	mlCgiFreeResources ();
 	return THC_OK;
 }
-
-/*$RCSfile: thcLoginCgi.c,v $*/

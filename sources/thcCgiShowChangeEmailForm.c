@@ -5,19 +5,6 @@
  * EEL270 - Computacao II - Turma 2012/2      
  * Prof. Marcelo Luiz Drumond Lanza           
  * Autor Joao Vitor Ferreira Duarte           
- *                                            
- * $Author: joao.duarte $                                   
- * $Date: 2013/04/06 18:55:09 $                                     
- * $Log: thcCgiShowChangeEmailForm.c,v $
- * Revision 1.3  2013/04/06 18:55:09  joao.duarte
- * Final Revision for first part
- *
- * Revision 1.2  2013/03/26 20:59:32  joao.duarte
- * Added error menssages and admin menu
- *
- * Revision 1.1  2013/03/26 02:42:17  joao.duarte
- * Initial revision
- *
  *
  *                                      
  */                                           
@@ -154,5 +141,3 @@ int main (int argc, char **argv)
 	return THC_OK;
 }
                                               
-                                                                                        
-/*$RCSfile: thcCgiShowChangeEmailForm.c,v $*/                                  

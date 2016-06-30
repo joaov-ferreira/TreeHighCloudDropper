@@ -5,12 +5,7 @@
  * EEL270 - Computacao II - Turma 2012/2      
  * Prof. Marcelo Luiz Drumond Lanza           
  * Autor Joao Vitor Ferreira Duarte           
- *                                            
- * $Author: joao.duarte $                                   
- * $Date: 2013/04/06 18:55:09 $                                     
- * $Log: thcConfig.h,v $
- * Revision 1.1  2013/04/06 18:55:09  joao.duarte
- * Initial revision
+ *                                           
  *                    
  */     
 
@@ -18,7 +13,7 @@
 
 #ifndef THC_CONFIG_H
 
-#define THC_CONFIG_H								"@(#)thcConfig.h $Revision: 1.1 $"
+#define THC_CONFIG_H
 
 
 /*********************************************************************************************/
@@ -85,6 +80,3 @@
 
 
 #endif
-
-
-/*$RCSfile: thcConfig.h,v $*/    

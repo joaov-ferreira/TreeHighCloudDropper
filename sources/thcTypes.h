@@ -5,24 +5,6 @@
  * EEL270 - Computacao II - Turma 2012/2      
  * Prof. Marcelo Luiz Drumond Lanza           
  * Autor Joao Vitor Ferreira Duarte           
- *                                            
- * $Author: joao.duarte $                                   
- * $Date: 2013/04/06 18:55:09 $                                     
- * $Log: thcTypes.h,v $
- * Revision 1.5  2013/04/06 18:55:09  joao.duarte
- * Final Revision for first part
- *
- * Revision 1.4  2013/03/26 02:46:26  joao.duarte
- * Fixed a bug on email abeyance type
- *
- * Revision 1.3  2013/03/24 03:29:27  joao.duarte
- * Created new types to use on change e-mail adress function
- *
- * Revision 1.2  2013/03/22 21:21:18  joao.duarte
- * added types to password reset
- *
- * Revision 1.1  2013/03/20 23:05:16  joao.duarte
- * Initial revision
  *                                      
  */          
  
@@ -136,4 +118,3 @@ typedef unsigned int 		thcErrorType;
 #endif	
 	
 	
-/*$RCSfile: thcTypes.h,v $*/

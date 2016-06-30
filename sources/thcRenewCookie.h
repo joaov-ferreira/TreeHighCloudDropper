@@ -6,16 +6,11 @@
  * Prof. Marcelo Luiz Drumond Lanza           
  * Autor Joao Vitor Ferreira Duarte           
  *                                            
- * $Author: joao.duarte $                                   
- * $Date: 2013/04/06 18:55:09 $                                     
- * $Log: thcRenewCookie.h,v $
- * Revision 1.1  2013/04/06 18:55:09  joao.duarte
- * Initial revision
  *                                      
  */                                           
                                               
  #ifndef  THC_RENEW_COOKIE_H                                    
- #define  THC_RENEW_COOKIE_H			"@(#)thcRenewCookie.h $Revision: 1.1 $"                                    
+ #define  THC_RENEW_COOKIE_H		                                   
      
 /*
  * thcErrorType thcRenewCookie (char* cookieName, thcLanguageType* language)
@@ -46,5 +41,4 @@
         
  thcErrorType thcRenewCookie (char* cookieName, thcLanguageType* language);
                                               
- #endif                                       
-/*$RCSfile*/									
+ #endif                                       								

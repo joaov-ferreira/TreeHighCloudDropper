@@ -6,14 +6,6 @@
  * Prof. Marcelo Luiz Drumond Lanza
  * EEL310 - Computacao II - Turma 2012/2
  * Autor Joao Vitor Ferreira Duarte 
- *     
- * $Author: joao.duarte $
- * $Date: 2013/03/26 02:45:06 $
- * $Log: thcConfirmEmailCgi.c,v $
- * Revision 1.1  2013/03/26 02:45:06  joao.duarte
- * Initial revision
- *
- *
  *
  */
 

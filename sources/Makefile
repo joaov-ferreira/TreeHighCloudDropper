@@ -7,26 +7,7 @@
 #
 # Autor: João Vítor Ferreira Duarte
 # Turma : EL2
-#
-# $Author: joao.duarte $
-# $Date: 2013/04/06 18:48:33 $
-# $Log: Makefile,v $
-# Revision 1.5  2013/04/06 18:48:33  joao.duarte
-# Final revision for first part
-#
-# Revision 1.4  2013/03/26 02:44:05  joao.duarte
-# Added some new cgi's (change e-mail)
-#
-# Revision 1.3  2013/03/22 21:25:46  joao.duarte
-# Added Cleaner user default text error menssages
-#
-# Revision 1.2  2013/03/21 21:07:01  joao.duarte
-# Added cleaner
-#
-# Revision 1.1  2013/03/20 23:05:16  joao.duarte
-# Initial revision
-#
-#
+
 
 #Compiler
 CC = gcc 
@@ -231,6 +212,3 @@ uninstall :
 
 clean:
 	rm -f *.o $(ALL)
-
-
-# $RCSfile: Makefile,v $ 

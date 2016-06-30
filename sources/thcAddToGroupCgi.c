@@ -6,13 +6,6 @@
  * Prof. Marcelo Luiz Drumond Lanza
  * EEL310 - Computacao II - Turma 3112/2
  *
- * $Author: joao.duarte $
- * $Date: 2013/04/06 18:54:19 $
- * $Log: thcAddToGroupCgi.c,v $
- * Revision 1.1  2013/04/06 18:54:19  joao.duarte
- * Initial revision
- *
- *
  *
  */
 
@@ -127,4 +120,3 @@ int main (int argc, char **argv)
 
 	return THC_OK;
 }
-

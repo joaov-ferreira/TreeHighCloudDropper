@@ -5,24 +5,6 @@
  * EEL270 - Computacao II - Turma 2012/2      
  * Prof. Marcelo Luiz Drumond Lanza           
  * Autor Joao Vitor Ferreira Duarte           
- *                                            
- * $Author: joao.duarte $                                   
- * $Date: 2013/04/06 18:55:09 $                                     
- * $Log: thcCleanAbeyanceUsers.c,v $
- * Revision 1.6  2013/04/06 18:55:09  joao.duarte
- * Final Revision for first part
- *
- * Revision 1.5  2013/03/26 21:52:50  joao.duarte
- * Now it will remove expirated cookies
- *
- * Revision 1.4  2013/03/24 03:31:05  joao.duarte
- * Now it will clean e-mail abeyances
- *
- * Revision 1.3  2013/03/22 21:26:36  joao.duarte
- * Now it will clean password abeyances and have a better output info
- *
- * Revision 1.2  2013/03/21 21:15:04  joao.duarte
- * *** empty log message ***
  *                                      
  */                                           
                                               
@@ -308,5 +290,3 @@ int main (int argc, char *argv[])
 	printf("Successfull removed expirated data\n");
 	return THC_OK;
 }                                          
-                                           
-/*$RCSfile: thcCleanAbeyanceUsers.c,v $*/                                  

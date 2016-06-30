@@ -6,17 +6,6 @@
  * Prof. Marcelo Luiz Drumond Lanza           
  * Autor Joao Vitor Ferreira Duarte           
  *                                            
- * $Author: joao.duarte $                                   
- * $Date: 2013/04/06 18:55:09 $                                     
- * $Log: thcCgiShowRemoveUserForm.c,v $
- * Revision 1.1  2013/04/06 18:55:09  joao.duarte
- * Initial revision
- *
- * Revision 1.2  2013/03/26 21:21:56  joao.duarte
- * Added error mensages and admin menu
- *
- * Revision 1.1  2013/03/21 21:11:54  joao.duarte
- * Initial revision
  *                                      
  */                                           
                                               
@@ -145,6 +134,3 @@ int main (int argc, char **argv)
 	
 	return THC_OK;
 }
-                                                                                      
-                                              
-/*$RCSfile: thcCgiShowRemoveUserForm.c,v $*/                                  

@@ -5,16 +5,7 @@
  * EEL270 - Computacao II - Turma 2012/2      
  * Prof. Marcelo Luiz Drumond Lanza           
  * Autor Joao Vitor Ferreira Duarte           
- *                                            
- * $Author: joao.duarte $                                   
- * $Date: 2013/04/06 18:55:09 $                                     
- * $Log: thcCgiShowInviteUserForm.c,v $
- * Revision 1.2  2013/04/06 18:55:09  joao.duarte
- * Final Revision for first part
- *
- * Revision 1.1  2013/03/26 21:16:01  joao.duarte
- * Initial revision
- *
+ * 
  *                                      
  */                                           
                                               
@@ -125,5 +116,3 @@ int main (int argc, char **argv)
 	
 	return THC_OK;
 }                                          
-                                              
-/*$RCSfile: thcCgiShowInviteUserForm.c,v $*/                                  

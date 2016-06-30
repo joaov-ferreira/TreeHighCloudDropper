@@ -4,29 +4,7 @@
  * Departamento de Eletronica e de Computacao 
  * EEL270 - Computacao II - Turma 2012/2      
  * Prof. Marcelo Luiz Drumond Lanza           
- * Autor Joao Vitor Ferreira Duarte           
- *                                            
- * $Author: joao.duarte $                                   
- * $Date: 2013/04/06 18:55:09 $                                     
- * $Log: thcFunctions.h,v $
- * Revision 1.6  2013/04/06 18:55:09  joao.duarte
- * Final Revision for first part
- *
- * Revision 1.5  2013/03/26 02:45:20  joao.duarte
- * fixed bugs on change e-mail function
- *
- * Revision 1.4  2013/03/24 03:26:58  joao.duarte
- * Added functions related to change e-mail adress process
- *
- * Revision 1.3  2013/03/22 21:19:23  joao.duarte
- * added reset password related functions
- *
- * Revision 1.2  2013/03/21 21:03:31  joao.duarte
- * Added clean abeyance file function
- *
- * Revision 1.1  2013/03/20 23:05:16  joao.duarte
- * Initial revision
- *                                      
+ * Autor Joao Vitor Ferreira Duarte                           
  */          
 
 #include "thcTypes.h"
@@ -756,4 +734,3 @@ thcErrorType thcSearchUserByUID(thcUserIdentifier UID,thcUserDataType *data);
 
 thcErrorType thcCookieNameToNickname(const char *cookieName, char *nickname);
 #endif
-/*$RCSfile: thcFunctions.h,v $*/

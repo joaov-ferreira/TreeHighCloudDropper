@@ -5,18 +5,6 @@
  * EEL270 - Computacao II - Turma 2012/2      
  * Prof. Marcelo Luiz Drumond Lanza           
  * Autor Joao Vitor Ferreira Duarte           
- *                                            
- * $Author: joao.duarte $                                   
- * $Date: 2013/04/06 18:55:09 $                                     
- * $Log: thcCgiShowChangeUsernameForm.c,v $
- * Revision 1.3  2013/04/06 18:55:09  joao.duarte
- * Final Revision for first part
- *
- * Revision 1.2  2013/03/26 21:11:30  joao.duarte
- * Added error menssages and admin form
- *
- * Revision 1.1  2013/03/21 23:18:07  joao.duarte
- * Initial revision
  *
  *                                      
  */                                           
@@ -148,5 +136,3 @@ int main (int argc, char **argv)
 	
 	return THC_OK;
 }
-                                                                                       
-/*$RCSfile: thcCgiShowChangeUsernameForm.c,v $*/                                  

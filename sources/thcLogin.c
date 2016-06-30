@@ -2,17 +2,6 @@
  * Universidade Federal do Rio de Janeiro
  * Escola Politecnica
  * Departamento de Eletronica e de Computacao
- *
- * Prof. Marcelo Luiz Drumond Lanza
- * EEL310 - Computacao II - Turma 3112/2
- *
- * $Author: joao.duarte $
- * $Date: 2013/03/20 23:05:16 $
- * $Log: thcLogin.c,v $
- * Revision 1.1  2013/03/20 23:05:16  joao.duarte
- * Initial revision
- *
- *
  */
 
 #include <stdio.h>

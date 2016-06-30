@@ -6,19 +6,11 @@
  * Prof. Marcelo Luiz Drumond Lanza           
  * Autor Joao Vitor Ferreira Duarte           
  *                                            
- * $Author: joao.duarte $                                   
- * $Date: 2013/04/06 18:55:09 $                                     
- * $Log: thcRemoveUser.h,v $
- * Revision 1.2  2013/04/06 18:55:09  joao.duarte
- * Final Revision for first part
- *
- * Revision 1.1  2013/03/20 23:05:16  joao.duarte
- * Initial revision
  *                                      
  */                                           
                                               
- #ifndef   THC_REMOVE_USER_H                            
- #define   THC_REMOVE_USER_H					"@(#)thcRemoveUser.h $Revision: 1.2 $"                                   
+#ifndef   THC_REMOVE_USER_H                            
+#define   THC_REMOVE_USER_H		
 
 #include "thcTypes.h"   
 
@@ -41,4 +33,3 @@
 thcErrorType thcRemoveUser(char *nickname);    
                                               
  #endif                                       
-/*$RCSfile: thcRemoveUser.h,v $*/									

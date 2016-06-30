@@ -4,22 +4,7 @@
  * Departamento de Eletronica e de Computacao 
  * EEL270 - Computacao II - Turma 2012/2      
  * Prof. Marcelo Luiz Drumond Lanza           
- * Autor Joao Vitor Ferreira Duarte           
- *                                            
- * $Author: joao.duarte $                                   
- * $Date: 2013/04/06 18:55:09 $                                     
- * $Log: thcError.c,v $
- * Revision 1.4  2013/04/06 18:55:09  joao.duarte
- * Final Revision for first part
- *
- * Revision 1.3  2013/03/24 03:30:21  joao.duarte
- * Added more error Codes, most used on change e-mail adress
- *
- * Revision 1.2  2013/03/22 21:20:33  joao.duarte
- * added macros to reset password functions
- *
- * Revision 1.1  2013/03/20 23:05:16  joao.duarte
- * Initial revision
+ * Autor Joao Vitor Ferreira Duarte 
  *                                      
  */                                           
                       
@@ -109,5 +94,3 @@ void thcGetHtmlErrorMessage(const thcLanguageType language, const thcErrorType e
 	
 	thcWebShowFooter();
 }
-
-/*$RCSfile: thcError.c,v $*/

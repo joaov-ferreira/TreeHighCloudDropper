@@ -6,17 +6,6 @@
  * Prof. Marcelo Luiz Drumond Lanza           
  * Autor Joao Vitor Ferreira Duarte           
  *                                            
- * $Author: joao.duarte $                                   
- * $Date: 2013/04/06 18:49:32 $                                     
- * $Log: thc.c,v $
- * Revision 1.3  2013/04/06 18:49:32  joao.duarte
- * Final revision for first part
- *
- * Revision 1.2  2013/03/21 20:55:06  joao.duarte
- * Fixed a bug when try to initiate at non admin account
- *
- * Revision 1.1  2013/03/20 23:05:16  joao.duarte
- * Initial revision
  *
  *                                      
  */          
@@ -981,6 +970,3 @@ int main(int argc, char **argv)
 
 	return THC_OK;
 }
-
-
-/*$RCSfile: thc.c,v $*/
